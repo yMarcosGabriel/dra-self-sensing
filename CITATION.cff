@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the archived release below."
+title: "yMarcosGabriel/dra-self-sensing: Initial research data and code release"
+type: software
+authors:
+  - family-names: "dos Santos"
+    given-names: "Marcos G. F."
+repository-code: "https://github.com/yMarcosGabriel/dra-self-sensing"
+url: "https://zenodo.org/records/24199500"
+doi: "10.5281/zenodo.24199500"
+version: "1.0.0"
+date-released: "2026-11-13"
+license: MIT
