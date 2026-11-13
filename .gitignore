@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+outputs/
+.DS_Store
+*.aedt
+*.aedtresults/
+*.aedt.lock
