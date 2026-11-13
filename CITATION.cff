@@ -3,7 +3,7 @@ message: "If you use this dataset or code, please cite the archived release belo
 title: "yMarcosGabriel/dra-self-sensing: Initial research data and code release"
 type: software
 authors:
-  - family-names: "dos Santos"
+  - family-names: "Santos"
     given-names: "Marcos G. F."
 repository-code: "https://github.com/yMarcosGabriel/dra-self-sensing"
 url: "https://zenodo.org/records/24199500"
