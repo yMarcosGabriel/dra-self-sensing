@@ -44,4 +44,4 @@ The current manuscript addresses a different inverse problem: recovering dielect
 
 ## Citation and license
 
-After the associated paper and Zenodo release are registered, cite the archival DOI of the release and the paper. The Python source code is released under the MIT license (`LICENSE`). The dataset (`data/dataset.csv`) is licensed under CC BY 4.0 (`data/LICENSE.txt`). Confirm authorization from all relevant rights holders before publishing the repository.
+After the associated paper and Zenodo release are registered, cite the archival DOI of the release and the paper. The Python source code is released under the MIT license (`LICENSE`). The dataset (`data/dataset.csv`) is licensed under CC BY 4.0 (`data/LICENSE.txt`).
